@@ -67,7 +67,10 @@ or
 python final_sonification.py
 ```
 ---
-
+## 🎬 Demo
+final_with_effect_opt.py
+![demo](./demo.gif)
+---
 ## 🎯 Feature Summary
 
 | Sound Design Element     | Implementation Detail                                 |

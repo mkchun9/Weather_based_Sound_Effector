@@ -11,7 +11,7 @@ class EffectOptimizerDialog(wx.Dialog):
         
         self.controls = {}
         
-        # 각 효과 파라미터별 슬라이더 추가 (범위 예시)
+        # 각 효과 파라미터별 슬라이더 추가
         params = {
             "Reverb Balance (0~1)": (0.0, 1.0, 0.01, initial_values.get("rev_bal", 0.5)),
             "Reverb Size (0~1)": (0.0, 1.0, 0.01, initial_values.get("rev_size", 0.7)),
@@ -50,7 +50,7 @@ class EffectOptimizerDialog(wx.Dialog):
         results = {}
         for label, (slider, minv, maxv, step) in self.controls.items():
             val = slider.GetValue() * step
-            key = label.split()[0].lower()  # 예: "Reverb" → "reverb", 조금 다르게 처리할 수도 있음
+            key = label.split()[0].lower() 
             if "reverb" in label.lower() and "balance" in label.lower():
                 results["rev_bal"] = val
             elif "reverb" in label.lower() and "size" in label.lower():

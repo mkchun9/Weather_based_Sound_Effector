@@ -196,12 +196,6 @@ class WeatherSonificationApp(wx.Frame):
         self.high_shelf = EQ(self.tremolo, freq=5000, boost=eq_gain)
         self.pan = Pan(self.high_shelf, outs=2, pan=pan_pos)
         self.hrtf = HRTF(self.pan, azimuth=azimuth, elevation=elevation)
-
-        self.rev.out()
-        self.filter_lp.out()
-        self.pan.out()
-        self.high_shelf.out()
-        self.tremolo.out()
         self.hrtf.out()
     
     def run_sonification_loop(self):
@@ -213,54 +207,60 @@ class WeatherSonificationApp(wx.Frame):
                 time.sleep(0.5)
                 continue
             
-            hour_data = self.weather_data["hourly"][self.current_hour]
+            hour_to_use = self.fixed_hour if self.fixed_hour is not None else self.current_hour
+            hour_data = self.weather_data["hourly"][hour_to_use]
+            #hour_data = self.weather_data["hourly"][self.current_hour]
             
-            temp = hour_data["temp"]
-            pitch_ratio = max(0.7, min(1.3, 0.7 + (temp - 10) * 0.02)) 
-            #기준점 10도, 0.02: 온도 1도당 pitch_ratio 변화량
+            if self.auto_update_effects or self.fixed_hour is not None:
+                temp = hour_data["temp"]
+                pitch_ratio = max(0.7, min(1.3, 0.7 + (temp - 10) * 0.02)) 
+                #기준점 10도, 0.02: 온도 1도당 pitch_ratio 변화량
 
-            
-            rain = hour_data.get("rain", 0)
-            snow = hour_data.get("snow", 0)
-            vol = max((rain + snow) / 10, 0.2)
-            
-            humidity = hour_data["humidity"]
-            rev_bal = min(max(humidity / 100, 0.0), 1.0)
-            rev_size = min(max(humidity / 100, 0.3), 0.9)
+                
+                rain = hour_data.get("rain", 0)
+                snow = hour_data.get("snow", 0)
+                vol = max((rain + snow) / 10, 0.2)
+                
+                humidity = hour_data["humidity"]
+                rev_bal = min(max(humidity / 100, 0.0), 1.0)
+                rev_size = min(max(humidity / 100, 0.3), 0.9)
 
-            
-            wind_speed = hour_data["wind_speed"]
-            wind_deg = hour_data["wind_deg"] % 360
-            
-            uvi = hour_data.get("uvi", 0)
-            eq_gain = min(uvi / 10, 1.0)
-            
-            cutoff_freq = 300 + (temp - 10) * 40
-            self.filter_lp.freq = cutoff_freq
+                
+                wind_speed = hour_data["wind_speed"]
+                wind_deg = hour_data["wind_deg"] % 360
+                
+                uvi = hour_data.get("uvi", 0)
+                eq_gain = min(uvi / 10, 1.0)
+                
+                cutoff_freq = 300 + (temp - 10) * 40
+                self.filter_lp.freq = cutoff_freq
 
-            
-            trem_rate = 0.1 + (wind_speed / 10) * 5
-            
-            # 부드러운 파라미터 변화
-            wx.CallAfter(setattr, self.music_player, "speed", pitch_ratio)
-            wx.CallAfter(setattr, self.music_player, "mul", vol * 0.8)
-            wx.CallAfter(setattr, self.rev, "bal", rev_bal)
-            wx.CallAfter(setattr, self.rev, "size", rev_size)
-            wx.CallAfter(setattr, self.filter_lp, "freq", cutoff_freq)
-            wx.CallAfter(setattr, self.tremolo, "freq", trem_rate)
+                
+                trem_rate = 0.1 + (wind_speed / 10) * 5
+                
+                # 부드러운 파라미터 변화
+                wx.CallAfter(setattr, self.music_player, "speed", pitch_ratio)
+                wx.CallAfter(setattr, self.music_player, "mul", vol * 0.8)
+                wx.CallAfter(setattr, self.rev, "bal", rev_bal)
+                wx.CallAfter(setattr, self.rev, "size", rev_size)
+                wx.CallAfter(setattr, self.filter_lp, "freq", cutoff_freq)
+                wx.CallAfter(setattr, self.tremolo, "freq", trem_rate)
 
-            #pan_pos = (wind_deg % 360) / 360 * 2 - 1
-            #wx.CallAfter(setattr, self.pan, "pan", pan_pos)
+                #pan_pos = (wind_deg % 360) / 360 * 2 - 1
+                #wx.CallAfter(setattr, self.pan, "pan", pan_pos)
 
-            eq_gain = min(uvi / 10, 1.0)
-            wx.CallAfter(setattr, self.high_shelf, "boost", eq_gain)
+                eq_gain = min(uvi / 10, 1.0)
+                wx.CallAfter(setattr, self.high_shelf, "boost", eq_gain)
 
-            wx.CallAfter(setattr, self.hrtf, "azimuth", wind_deg)
+                wx.CallAfter(setattr, self.hrtf, "azimuth", wind_deg)
 
             
             self.update_graph(self.current_hour)
             self.update_weather_summary(self.current_hour)
-            self.current_hour = (self.current_hour + 1) % total_hours
+            
+            
+            if self.fixed_hour is None:
+                self.current_hour = (self.current_hour + 1) % total_hours
             
             time.sleep(self.playback_speed)
 
@@ -301,7 +301,18 @@ class WeatherSonificationApp(wx.Frame):
                    f"Snow: {hour_data.get('snow',0)} mm\n"
                    f"UV Index: {hour_data.get('uvi',0)}")
         self.weather_summary.SetValue(summary)
-    
+        
+        def apply_effects(self, effects):
+            if self.rev:
+                self.rev.bal = effects["rev_bal"]
+                self.rev.size = effects["rev_size"]
+            if self.filter_lp:
+                self.filter_lp.freq = effects["cutoff_freq"]
+            if self.lfo:
+                self.lfo.freq = effects["trem_rate"]
+            if self.high_shelf:
+                self.high_shelf.boost = effects["eq_gain"]
+            
     def on_speed_change(self, event):
         self.playback_speed = self.speed_slider.GetValue() / 1000.0
     
@@ -311,8 +322,9 @@ class WeatherSonificationApp(wx.Frame):
         if dlg.ShowModal() == wx.ID_OK:
             self.pending_effects = dlg.get_values()
             self.update_pending_effect_texts()
+            self.apply_effects(self.pending_effects)
         dlg.Destroy()
-    
+
     def on_fix_effects(self, event):
         self.optimized_effects = self.pending_effects.copy()
         self.fixed_hour = self.current_hour

@@ -110,7 +110,7 @@ class WeatherSonificationApp(wx.Frame):
         # 기본 파라미터 설정
         rev_bal = min(max(hour_data["humidity"] / 100, 0.0), 1.0)
         rev_size = min(max(hour_data["humidity"] / 100, 0.3), 0.9)
-        cutoff_freq = 300 + (hour_data['temp'] - 10) * 40 
+        cutoff_freq = max(300, min(1200, 300 + (hour_data['temp'] - 10) * 40)) 
         trem_rate = 0.1 + (hour_data["wind_speed"]/10) * 5 #0.1~5.1Hz
         #trem_rate = 0.1 + (wind_speed / 10) * 5  # 풍속이 0~10에서 0.1~5.1Hz
         azimuth = hour_data["wind_deg"] % 360
@@ -213,15 +213,15 @@ class WeatherSonificationApp(wx.Frame):
             uvi = hour_data.get("uvi", 0)
             eq_gain = min(uvi / 10, 1.0)
             
-            cutoff_freq = 300 + (temp - 10) * 40
+            cutoff_freq = max(300, min(1200, 300 + (temp - 10) * 40)) 
             self.filter_lp.freq = cutoff_freq
 
             
             trem_rate = 0.1 + (wind_speed / 10) * 5
             
-            # 부드러운 파라미터 변화
+            # 부드럽게게 파라미터 변화
             wx.CallAfter(setattr, self.music_player, "speed", pitch_ratio)
-            wx.CallAfter(setattr, self.music_player, "mul", vol * 0.8)
+            wx.CallAfter(setattr, self.music_player, "mul", vol)
             wx.CallAfter(setattr, self.rev, "bal", rev_bal)
             wx.CallAfter(setattr, self.rev, "size", rev_size)
             wx.CallAfter(setattr, self.filter_lp, "freq", cutoff_freq)

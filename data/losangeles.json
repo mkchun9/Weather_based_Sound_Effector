@@ -1,0 +1,29 @@
+{
+  "city": "LosAngeles",
+  "hourly": [
+    {"hour":0,"temp":19.0,"humidity":70,"rain":0,"wind_speed":2.0,"wind_deg":180,"uv_index":0},
+    {"hour":1,"temp":18.8,"humidity":72,"rain":0,"wind_speed":1.8,"wind_deg":175,"uv_index":0},
+    {"hour":2,"temp":18.5,"humidity":73,"rain":0,"wind_speed":1.7,"wind_deg":170,"uv_index":0},
+    {"hour":3,"temp":18.3,"humidity":74,"rain":0,"wind_speed":1.5,"wind_deg":165,"uv_index":0},
+    {"hour":4,"temp":18.2,"humidity":75,"rain":0,"wind_speed":1.3,"wind_deg":160,"uv_index":0},
+    {"hour":5,"temp":18.0,"humidity":76,"rain":0,"wind_speed":1.2,"wind_deg":155,"uv_index":0},
+    {"hour":6,"temp":18.1,"humidity":74,"rain":0,"wind_speed":1.2,"wind_deg":150,"uv_index":0},
+    {"hour":7,"temp":19.0,"humidity":70,"rain":0,"wind_speed":1.5,"wind_deg":145,"uv_index":1},
+    {"hour":8,"temp":20.5,"humidity":65,"rain":0,"wind_speed":1.8,"wind_deg":140,"uv_index":2},
+    {"hour":9,"temp":22.0,"humidity":60,"rain":0,"wind_speed":2.0,"wind_deg":135,"uv_index":3},
+    {"hour":10,"temp":23.5,"humidity":55,"rain":0,"wind_speed":2.3,"wind_deg":130,"uv_index":5},
+    {"hour":11,"temp":24.5,"humidity":50,"rain":0,"wind_speed":2.5,"wind_deg":125,"uv_index":6},
+    {"hour":12,"temp":25.0,"humidity":48,"rain":0,"wind_speed":2.7,"wind_deg":120,"uv_index":7},
+    {"hour":13,"temp":25.5,"humidity":46,"rain":0,"wind_speed":2.8,"wind_deg":115,"uv_index":8},
+    {"hour":14,"temp":25.2,"humidity":47,"rain":0,"wind_speed":2.9,"wind_deg":110,"uv_index":8},
+    {"hour":15,"temp":24.8,"humidity":48,"rain":0,"wind_speed":2.7,"wind_deg":105,"uv_index":7},
+    {"hour":16,"temp":24.0,"humidity":50,"rain":0,"wind_speed":2.5,"wind_deg":100,"uv_index":6},
+    {"hour":17,"temp":23.0,"humidity":55,"rain":0,"wind_speed":2.0,"wind_deg":95,"uv_index":5},
+    {"hour":18,"temp":21.5,"humidity":60,"rain":0,"wind_speed":1.8,"wind_deg":90,"uv_index":3},
+    {"hour":19,"temp":20.0,"humidity":65,"rain":0,"wind_speed":1.5,"wind_deg":85,"uv_index":2},
+    {"hour":20,"temp":19.5,"humidity":68,"rain":0,"wind_speed":1.2,"wind_deg":80,"uv_index":1},
+    {"hour":21,"temp":19.0,"humidity":70,"rain":0,"wind_speed":1.0,"wind_deg":75,"uv_index":0},
+    {"hour":22,"temp":18.8,"humidity":72,"rain":0,"wind_speed":0.9,"wind_deg":70,"uv_index":0},
+    {"hour":23,"temp":18.5,"humidity":73,"rain":0,"wind_speed":0.8,"wind_deg":65,"uv_index":0}
+  ]
+}

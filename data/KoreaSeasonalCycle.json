@@ -1,0 +1,4325 @@
+{
+  "city": "KoreaSeasonalCycle",
+  "hourly": [
+    {
+      "hour": 0,
+      "temp": 1.9,
+      "humidity": 55,
+      "rain": 0.7,
+      "snow": 0.0,
+      "wind_speed": 2.9,
+      "wind_deg": 28,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "scattered clouds"
+        }
+      ]
+    },
+    {
+      "hour": 1,
+      "temp": 3.5,
+      "humidity": 68,
+      "rain": 0.4,
+      "snow": 0.0,
+      "wind_speed": 2.4,
+      "wind_deg": 327,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "scattered clouds"
+        }
+      ]
+    },
+    {
+      "hour": 2,
+      "temp": 2.0,
+      "humidity": 58,
+      "rain": 0.5,
+      "snow": 0.0,
+      "wind_speed": 1.3,
+      "wind_deg": 316,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "scattered clouds"
+        }
+      ]
+    },
+    {
+      "hour": 3,
+      "temp": 3.9,
+      "humidity": 68,
+      "rain": 0.3,
+      "snow": 0.0,
+      "wind_speed": 2.5,
+      "wind_deg": 344,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "scattered clouds"
+        }
+      ]
+    },
+    {
+      "hour": 4,
+      "temp": 4.3,
+      "humidity": 63,
+      "rain": 0.5,
+      "snow": 0.0,
+      "wind_speed": 3.0,
+      "wind_deg": 83,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "scattered clouds"
+        }
+      ]
+    },
+    {
+      "hour": 5,
+      "temp": 2.5,
+      "humidity": 60,
+      "rain": 0.6,
+      "snow": 0.0,
+      "wind_speed": 1.6,
+      "wind_deg": 31,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "scattered clouds"
+        }
+      ]
+    },
+    {
+      "hour": 6,
+      "temp": 3.5,
+      "humidity": 62,
+      "rain": 0.1,
+      "snow": 0.0,
+      "wind_speed": 2.7,
+      "wind_deg": 85,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "scattered clouds"
+        }
+      ]
+    },
+    {
+      "hour": 7,
+      "temp": 10.9,
+      "humidity": 61,
+      "rain": 1.0,
+      "snow": 0.0,
+      "wind_speed": 1.2,
+      "wind_deg": 253,
+      "uvi": 3.1,
+      "weather": [
+        {
+          "description": "scattered clouds"
+        }
+      ]
+    },
+    {
+      "hour": 8,
+      "temp": 10.3,
+      "humidity": 61,
+      "rain": 0.4,
+      "snow": 0.0,
+      "wind_speed": 1.6,
+      "wind_deg": 99,
+      "uvi": 3.6,
+      "weather": [
+        {
+          "description": "scattered clouds"
+        }
+      ]
+    },
+    {
+      "hour": 9,
+      "temp": 10.1,
+      "humidity": 60,
+      "rain": 0.9,
+      "snow": 0.0,
+      "wind_speed": 2.2,
+      "wind_deg": 23,
+      "uvi": 3.6,
+      "weather": [
+        {
+          "description": "scattered clouds"
+        }
+      ]
+    },
+    {
+      "hour": 10,
+      "temp": 11.2,
+      "humidity": 66,
+      "rain": 0.5,
+      "snow": 0.0,
+      "wind_speed": 1.4,
+      "wind_deg": 319,
+      "uvi": 3.0,
+      "weather": [
+        {
+          "description": "scattered clouds"
+        }
+      ]
+    },
+    {
+      "hour": 11,
+      "temp": 11.3,
+      "humidity": 56,
+      "rain": 0.3,
+      "snow": 0.0,
+      "wind_speed": 2.7,
+      "wind_deg": 196,
+      "uvi": 2.4,
+      "weather": [
+        {
+          "description": "scattered clouds"
+        }
+      ]
+    },
+    {
+      "hour": 12,
+      "temp": 11.3,
+      "humidity": 55,
+      "rain": 0.4,
+      "snow": 0.0,
+      "wind_speed": 1.0,
+      "wind_deg": 271,
+      "uvi": 3.3,
+      "weather": [
+        {
+          "description": "scattered clouds"
+        }
+      ]
+    },
+    {
+      "hour": 13,
+      "temp": 10.0,
+      "humidity": 61,
+      "rain": 0.9,
+      "snow": 0.0,
+      "wind_speed": 1.6,
+      "wind_deg": 309,
+      "uvi": 3.4,
+      "weather": [
+        {
+          "description": "scattered clouds"
+        }
+      ]
+    },
+    {
+      "hour": 14,
+      "temp": 8.7,
+      "humidity": 56,
+      "rain": 0.4,
+      "snow": 0.0,
+      "wind_speed": 3.0,
+      "wind_deg": 93,
+      "uvi": 2.7,
+      "weather": [
+        {
+          "description": "scattered clouds"
+        }
+      ]
+    },
+    {
+      "hour": 15,
+      "temp": 10.5,
+      "humidity": 57,
+      "rain": 0.7,
+      "snow": 0.0,
+      "wind_speed": 2.2,
+      "wind_deg": 2,
+      "uvi": 3.9,
+      "weather": [
+        {
+          "description": "scattered clouds"
+        }
+      ]
+    },
+    {
+      "hour": 16,
+      "temp": 10.1,
+      "humidity": 63,
+      "rain": 0.2,
+      "snow": 0.0,
+      "wind_speed": 1.2,
+      "wind_deg": 185,
+      "uvi": 3.7,
+      "weather": [
+        {
+          "description": "scattered clouds"
+        }
+      ]
+    },
+    {
+      "hour": 17,
+      "temp": 8.6,
+      "humidity": 57,
+      "rain": 0.3,
+      "snow": 0.0,
+      "wind_speed": 2.4,
+      "wind_deg": 128,
+      "uvi": 3.4,
+      "weather": [
+        {
+          "description": "scattered clouds"
+        }
+      ]
+    },
+    {
+      "hour": 18,
+      "temp": 9.8,
+      "humidity": 62,
+      "rain": 0.2,
+      "snow": 0.0,
+      "wind_speed": 2.7,
+      "wind_deg": 117,
+      "uvi": 2.0,
+      "weather": [
+        {
+          "description": "scattered clouds"
+        }
+      ]
+    },
+    {
+      "hour": 19,
+      "temp": 2.0,
+      "humidity": 58,
+      "rain": 0.2,
+      "snow": 0.0,
+      "wind_speed": 2.6,
+      "wind_deg": 341,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "scattered clouds"
+        }
+      ]
+    },
+    {
+      "hour": 20,
+      "temp": 2.0,
+      "humidity": 60,
+      "rain": 0.2,
+      "snow": 0.0,
+      "wind_speed": 2.2,
+      "wind_deg": 1,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "scattered clouds"
+        }
+      ]
+    },
+    {
+      "hour": 21,
+      "temp": 3.4,
+      "humidity": 57,
+      "rain": 0.1,
+      "snow": 0.0,
+      "wind_speed": 1.6,
+      "wind_deg": 34,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "scattered clouds"
+        }
+      ]
+    },
+    {
+      "hour": 22,
+      "temp": 2.0,
+      "humidity": 59,
+      "rain": 0.6,
+      "snow": 0.0,
+      "wind_speed": 2.2,
+      "wind_deg": 46,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "scattered clouds"
+        }
+      ]
+    },
+    {
+      "hour": 23,
+      "temp": 3.7,
+      "humidity": 66,
+      "rain": 0.7,
+      "snow": 0.0,
+      "wind_speed": 2.9,
+      "wind_deg": 120,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "scattered clouds"
+        }
+      ]
+    },
+    {
+      "hour": 24,
+      "temp": 8.0,
+      "humidity": 64,
+      "rain": 0.3,
+      "snow": 0.0,
+      "wind_speed": 2.3,
+      "wind_deg": 331,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 25,
+      "temp": 7.4,
+      "humidity": 61,
+      "rain": 0.7,
+      "snow": 0.0,
+      "wind_speed": 1.6,
+      "wind_deg": 213,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 26,
+      "temp": 9.1,
+      "humidity": 61,
+      "rain": 1.8,
+      "snow": 0.0,
+      "wind_speed": 1.2,
+      "wind_deg": 125,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 27,
+      "temp": 7.9,
+      "humidity": 55,
+      "rain": 0.1,
+      "snow": 0.0,
+      "wind_speed": 2.2,
+      "wind_deg": 325,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 28,
+      "temp": 7.4,
+      "humidity": 65,
+      "rain": 1.6,
+      "snow": 0.0,
+      "wind_speed": 1.9,
+      "wind_deg": 61,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 29,
+      "temp": 7.2,
+      "humidity": 60,
+      "rain": 1.7,
+      "snow": 0.0,
+      "wind_speed": 2.5,
+      "wind_deg": 298,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 30,
+      "temp": 7.0,
+      "humidity": 58,
+      "rain": 0.5,
+      "snow": 0.0,
+      "wind_speed": 1.7,
+      "wind_deg": 330,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 31,
+      "temp": 16.8,
+      "humidity": 55,
+      "rain": 1.0,
+      "snow": 0.0,
+      "wind_speed": 3.0,
+      "wind_deg": 245,
+      "uvi": 4.3,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 32,
+      "temp": 15.8,
+      "humidity": 57,
+      "rain": 0.9,
+      "snow": 0.0,
+      "wind_speed": 2.1,
+      "wind_deg": 312,
+      "uvi": 4.1,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 33,
+      "temp": 14.9,
+      "humidity": 59,
+      "rain": 0.3,
+      "snow": 0.0,
+      "wind_speed": 1.7,
+      "wind_deg": 73,
+      "uvi": 4.4,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 34,
+      "temp": 15.4,
+      "humidity": 57,
+      "rain": 1.0,
+      "snow": 0.0,
+      "wind_speed": 2.4,
+      "wind_deg": 269,
+      "uvi": 3.5,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 35,
+      "temp": 14.5,
+      "humidity": 63,
+      "rain": 0.1,
+      "snow": 0.0,
+      "wind_speed": 1.4,
+      "wind_deg": 35,
+      "uvi": 3.5,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 36,
+      "temp": 17.4,
+      "humidity": 59,
+      "rain": 1.3,
+      "snow": 0.0,
+      "wind_speed": 1.2,
+      "wind_deg": 116,
+      "uvi": 4.9,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 37,
+      "temp": 17.2,
+      "humidity": 64,
+      "rain": 1.0,
+      "snow": 0.0,
+      "wind_speed": 1.2,
+      "wind_deg": 89,
+      "uvi": 4.9,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 38,
+      "temp": 17.4,
+      "humidity": 50,
+      "rain": 1.1,
+      "snow": 0.0,
+      "wind_speed": 3.0,
+      "wind_deg": 269,
+      "uvi": 3.5,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 39,
+      "temp": 15.5,
+      "humidity": 51,
+      "rain": 0.1,
+      "snow": 0.0,
+      "wind_speed": 1.3,
+      "wind_deg": 291,
+      "uvi": 3.7,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 40,
+      "temp": 16.2,
+      "humidity": 60,
+      "rain": 1.0,
+      "snow": 0.0,
+      "wind_speed": 2.2,
+      "wind_deg": 186,
+      "uvi": 4.3,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 41,
+      "temp": 16.2,
+      "humidity": 55,
+      "rain": 1.9,
+      "snow": 0.0,
+      "wind_speed": 2.2,
+      "wind_deg": 219,
+      "uvi": 3.7,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 42,
+      "temp": 17.2,
+      "humidity": 58,
+      "rain": 1.8,
+      "snow": 0.0,
+      "wind_speed": 2.9,
+      "wind_deg": 37,
+      "uvi": 3.6,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 43,
+      "temp": 7.3,
+      "humidity": 65,
+      "rain": 0.1,
+      "snow": 0.0,
+      "wind_speed": 1.4,
+      "wind_deg": 101,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 44,
+      "temp": 8.5,
+      "humidity": 53,
+      "rain": 0.2,
+      "snow": 0.0,
+      "wind_speed": 1.1,
+      "wind_deg": 108,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 45,
+      "temp": 7.1,
+      "humidity": 58,
+      "rain": 0.5,
+      "snow": 0.0,
+      "wind_speed": 1.3,
+      "wind_deg": 115,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 46,
+      "temp": 7.7,
+      "humidity": 57,
+      "rain": 0.3,
+      "snow": 0.0,
+      "wind_speed": 2.8,
+      "wind_deg": 151,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 47,
+      "temp": 9.3,
+      "humidity": 52,
+      "rain": 0.3,
+      "snow": 0.0,
+      "wind_speed": 1.9,
+      "wind_deg": 169,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 48,
+      "temp": 13.1,
+      "humidity": 68,
+      "rain": 0.2,
+      "snow": 0.0,
+      "wind_speed": 3.6,
+      "wind_deg": 169,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 49,
+      "temp": 13.8,
+      "humidity": 50,
+      "rain": 0.4,
+      "snow": 0.0,
+      "wind_speed": 3.2,
+      "wind_deg": 150,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 50,
+      "temp": 14.3,
+      "humidity": 53,
+      "rain": 2.3,
+      "snow": 0.0,
+      "wind_speed": 2.7,
+      "wind_deg": 317,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 51,
+      "temp": 14.0,
+      "humidity": 57,
+      "rain": 1.8,
+      "snow": 0.0,
+      "wind_speed": 3.1,
+      "wind_deg": 246,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 52,
+      "temp": 12.0,
+      "humidity": 64,
+      "rain": 2.8,
+      "snow": 0.0,
+      "wind_speed": 2.6,
+      "wind_deg": 195,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 53,
+      "temp": 12.9,
+      "humidity": 51,
+      "rain": 3.0,
+      "snow": 0.0,
+      "wind_speed": 3.3,
+      "wind_deg": 216,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 54,
+      "temp": 13.2,
+      "humidity": 55,
+      "rain": 0.5,
+      "snow": 0.0,
+      "wind_speed": 2.4,
+      "wind_deg": 9,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 55,
+      "temp": 21.4,
+      "humidity": 60,
+      "rain": 2.9,
+      "snow": 0.0,
+      "wind_speed": 3.4,
+      "wind_deg": 337,
+      "uvi": 5.8,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 56,
+      "temp": 21.3,
+      "humidity": 66,
+      "rain": 2.6,
+      "snow": 0.0,
+      "wind_speed": 3.6,
+      "wind_deg": 327,
+      "uvi": 4.1,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 57,
+      "temp": 20.4,
+      "humidity": 58,
+      "rain": 1.1,
+      "snow": 0.0,
+      "wind_speed": 3.6,
+      "wind_deg": 1,
+      "uvi": 5.2,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 58,
+      "temp": 21.9,
+      "humidity": 59,
+      "rain": 0.5,
+      "snow": 0.0,
+      "wind_speed": 2.8,
+      "wind_deg": 238,
+      "uvi": 4.6,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 59,
+      "temp": 21.4,
+      "humidity": 54,
+      "rain": 0.8,
+      "snow": 0.0,
+      "wind_speed": 3.0,
+      "wind_deg": 73,
+      "uvi": 5.0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 60,
+      "temp": 20.8,
+      "humidity": 65,
+      "rain": 2.6,
+      "snow": 0.0,
+      "wind_speed": 2.5,
+      "wind_deg": 153,
+      "uvi": 5.7,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 61,
+      "temp": 20.3,
+      "humidity": 61,
+      "rain": 0.6,
+      "snow": 0.0,
+      "wind_speed": 2.7,
+      "wind_deg": 335,
+      "uvi": 5.0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 62,
+      "temp": 21.7,
+      "humidity": 51,
+      "rain": 1.8,
+      "snow": 0.0,
+      "wind_speed": 3.6,
+      "wind_deg": 250,
+      "uvi": 4.9,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 63,
+      "temp": 22.2,
+      "humidity": 58,
+      "rain": 2.1,
+      "snow": 0.0,
+      "wind_speed": 2.2,
+      "wind_deg": 73,
+      "uvi": 4.6,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 64,
+      "temp": 20.7,
+      "humidity": 58,
+      "rain": 1.7,
+      "snow": 0.0,
+      "wind_speed": 2.5,
+      "wind_deg": 26,
+      "uvi": 4.8,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 65,
+      "temp": 20.4,
+      "humidity": 64,
+      "rain": 0.4,
+      "snow": 0.0,
+      "wind_speed": 3.7,
+      "wind_deg": 159,
+      "uvi": 4.6,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 66,
+      "temp": 22.4,
+      "humidity": 62,
+      "rain": 1.7,
+      "snow": 0.0,
+      "wind_speed": 2.0,
+      "wind_deg": 286,
+      "uvi": 5.0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 67,
+      "temp": 12.2,
+      "humidity": 70,
+      "rain": 2.0,
+      "snow": 0.0,
+      "wind_speed": 3.1,
+      "wind_deg": 242,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 68,
+      "temp": 12.2,
+      "humidity": 50,
+      "rain": 0.2,
+      "snow": 0.0,
+      "wind_speed": 3.8,
+      "wind_deg": 90,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 69,
+      "temp": 13.6,
+      "humidity": 55,
+      "rain": 0.1,
+      "snow": 0.0,
+      "wind_speed": 3.4,
+      "wind_deg": 256,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 70,
+      "temp": 14.3,
+      "humidity": 66,
+      "rain": 1.7,
+      "snow": 0.0,
+      "wind_speed": 2.5,
+      "wind_deg": 207,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 71,
+      "temp": 13.5,
+      "humidity": 59,
+      "rain": 0.0,
+      "snow": 0.0,
+      "wind_speed": 3.4,
+      "wind_deg": 105,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 72,
+      "temp": 17.6,
+      "humidity": 76,
+      "rain": 2.9,
+      "snow": 0.0,
+      "wind_speed": 2.2,
+      "wind_deg": 18,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "sunny"
+        }
+      ]
+    },
+    {
+      "hour": 73,
+      "temp": 17.0,
+      "humidity": 64,
+      "rain": 2.4,
+      "snow": 0.0,
+      "wind_speed": 1.8,
+      "wind_deg": 338,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "sunny"
+        }
+      ]
+    },
+    {
+      "hour": 74,
+      "temp": 18.2,
+      "humidity": 67,
+      "rain": 1.4,
+      "snow": 0.0,
+      "wind_speed": 1.4,
+      "wind_deg": 27,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "sunny"
+        }
+      ]
+    },
+    {
+      "hour": 75,
+      "temp": 17.4,
+      "humidity": 71,
+      "rain": 2.8,
+      "snow": 0.0,
+      "wind_speed": 1.9,
+      "wind_deg": 318,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "sunny"
+        }
+      ]
+    },
+    {
+      "hour": 76,
+      "temp": 17.0,
+      "humidity": 75,
+      "rain": 2.8,
+      "snow": 0.0,
+      "wind_speed": 2.8,
+      "wind_deg": 53,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "sunny"
+        }
+      ]
+    },
+    {
+      "hour": 77,
+      "temp": 19.3,
+      "humidity": 70,
+      "rain": 2.4,
+      "snow": 0.0,
+      "wind_speed": 1.7,
+      "wind_deg": 335,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "sunny"
+        }
+      ]
+    },
+    {
+      "hour": 78,
+      "temp": 16.7,
+      "humidity": 72,
+      "rain": 2.5,
+      "snow": 0.0,
+      "wind_speed": 2.0,
+      "wind_deg": 139,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "sunny"
+        }
+      ]
+    },
+    {
+      "hour": 79,
+      "temp": 26.6,
+      "humidity": 71,
+      "rain": 1.8,
+      "snow": 0.0,
+      "wind_speed": 1.7,
+      "wind_deg": 169,
+      "uvi": 6.2,
+      "weather": [
+        {
+          "description": "sunny"
+        }
+      ]
+    },
+    {
+      "hour": 80,
+      "temp": 26.6,
+      "humidity": 68,
+      "rain": 2.6,
+      "snow": 0.0,
+      "wind_speed": 2.1,
+      "wind_deg": 150,
+      "uvi": 7.7,
+      "weather": [
+        {
+          "description": "sunny"
+        }
+      ]
+    },
+    {
+      "hour": 81,
+      "temp": 25.6,
+      "humidity": 65,
+      "rain": 3.3,
+      "snow": 0.0,
+      "wind_speed": 1.1,
+      "wind_deg": 123,
+      "uvi": 8.0,
+      "weather": [
+        {
+          "description": "sunny"
+        }
+      ]
+    },
+    {
+      "hour": 82,
+      "temp": 24.7,
+      "humidity": 62,
+      "rain": 3.9,
+      "snow": 0.0,
+      "wind_speed": 1.6,
+      "wind_deg": 228,
+      "uvi": 6.9,
+      "weather": [
+        {
+          "description": "sunny"
+        }
+      ]
+    },
+    {
+      "hour": 83,
+      "temp": 26.7,
+      "humidity": 79,
+      "rain": 3.6,
+      "snow": 0.0,
+      "wind_speed": 1.1,
+      "wind_deg": 312,
+      "uvi": 7.9,
+      "weather": [
+        {
+          "description": "sunny"
+        }
+      ]
+    },
+    {
+      "hour": 84,
+      "temp": 25.6,
+      "humidity": 74,
+      "rain": 3.7,
+      "snow": 0.0,
+      "wind_speed": 2.7,
+      "wind_deg": 315,
+      "uvi": 6.9,
+      "weather": [
+        {
+          "description": "sunny"
+        }
+      ]
+    },
+    {
+      "hour": 85,
+      "temp": 26.1,
+      "humidity": 69,
+      "rain": 2.0,
+      "snow": 0.0,
+      "wind_speed": 2.4,
+      "wind_deg": 176,
+      "uvi": 7.5,
+      "weather": [
+        {
+          "description": "sunny"
+        }
+      ]
+    },
+    {
+      "hour": 86,
+      "temp": 26.1,
+      "humidity": 63,
+      "rain": 1.4,
+      "snow": 0.0,
+      "wind_speed": 1.5,
+      "wind_deg": 32,
+      "uvi": 6.6,
+      "weather": [
+        {
+          "description": "sunny"
+        }
+      ]
+    },
+    {
+      "hour": 87,
+      "temp": 24.7,
+      "humidity": 80,
+      "rain": 3.0,
+      "snow": 0.0,
+      "wind_speed": 2.9,
+      "wind_deg": 88,
+      "uvi": 6.6,
+      "weather": [
+        {
+          "description": "sunny"
+        }
+      ]
+    },
+    {
+      "hour": 88,
+      "temp": 25.1,
+      "humidity": 62,
+      "rain": 3.2,
+      "snow": 0.0,
+      "wind_speed": 1.4,
+      "wind_deg": 71,
+      "uvi": 6.1,
+      "weather": [
+        {
+          "description": "sunny"
+        }
+      ]
+    },
+    {
+      "hour": 89,
+      "temp": 24.7,
+      "humidity": 74,
+      "rain": 3.9,
+      "snow": 0.0,
+      "wind_speed": 2.8,
+      "wind_deg": 95,
+      "uvi": 7.2,
+      "weather": [
+        {
+          "description": "sunny"
+        }
+      ]
+    },
+    {
+      "hour": 90,
+      "temp": 25.3,
+      "humidity": 72,
+      "rain": 1.2,
+      "snow": 0.0,
+      "wind_speed": 2.2,
+      "wind_deg": 4,
+      "uvi": 7.1,
+      "weather": [
+        {
+          "description": "sunny"
+        }
+      ]
+    },
+    {
+      "hour": 91,
+      "temp": 18.0,
+      "humidity": 65,
+      "rain": 2.5,
+      "snow": 0.0,
+      "wind_speed": 2.9,
+      "wind_deg": 36,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "sunny"
+        }
+      ]
+    },
+    {
+      "hour": 92,
+      "temp": 18.0,
+      "humidity": 64,
+      "rain": 3.4,
+      "snow": 0.0,
+      "wind_speed": 1.7,
+      "wind_deg": 185,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "sunny"
+        }
+      ]
+    },
+    {
+      "hour": 93,
+      "temp": 17.0,
+      "humidity": 71,
+      "rain": 3.9,
+      "snow": 0.0,
+      "wind_speed": 2.4,
+      "wind_deg": 10,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "sunny"
+        }
+      ]
+    },
+    {
+      "hour": 94,
+      "temp": 17.8,
+      "humidity": 67,
+      "rain": 2.7,
+      "snow": 0.0,
+      "wind_speed": 2.4,
+      "wind_deg": 107,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "sunny"
+        }
+      ]
+    },
+    {
+      "hour": 95,
+      "temp": 16.7,
+      "humidity": 64,
+      "rain": 3.1,
+      "snow": 0.0,
+      "wind_speed": 2.0,
+      "wind_deg": 262,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "sunny"
+        }
+      ]
+    },
+    {
+      "hour": 96,
+      "temp": 23.4,
+      "humidity": 88,
+      "rain": 5.5,
+      "snow": 0.0,
+      "wind_speed": 2.8,
+      "wind_deg": 290,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "thunderstorm"
+        }
+      ]
+    },
+    {
+      "hour": 97,
+      "temp": 23.2,
+      "humidity": 70,
+      "rain": 4.5,
+      "snow": 0.0,
+      "wind_speed": 2.5,
+      "wind_deg": 255,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "thunderstorm"
+        }
+      ]
+    },
+    {
+      "hour": 98,
+      "temp": 22.9,
+      "humidity": 73,
+      "rain": 4.9,
+      "snow": 0.0,
+      "wind_speed": 3.2,
+      "wind_deg": 301,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "thunderstorm"
+        }
+      ]
+    },
+    {
+      "hour": 99,
+      "temp": 24.1,
+      "humidity": 75,
+      "rain": 4.2,
+      "snow": 0.0,
+      "wind_speed": 3.9,
+      "wind_deg": 330,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "thunderstorm"
+        }
+      ]
+    },
+    {
+      "hour": 100,
+      "temp": 23.3,
+      "humidity": 89,
+      "rain": 5.3,
+      "snow": 0.0,
+      "wind_speed": 2.9,
+      "wind_deg": 169,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "thunderstorm"
+        }
+      ]
+    },
+    {
+      "hour": 101,
+      "temp": 23.8,
+      "humidity": 71,
+      "rain": 5.0,
+      "snow": 0.0,
+      "wind_speed": 2.6,
+      "wind_deg": 243,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "thunderstorm"
+        }
+      ]
+    },
+    {
+      "hour": 102,
+      "temp": 24.9,
+      "humidity": 82,
+      "rain": 3.8,
+      "snow": 0.0,
+      "wind_speed": 2.5,
+      "wind_deg": 359,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "thunderstorm"
+        }
+      ]
+    },
+    {
+      "hour": 103,
+      "temp": 31.5,
+      "humidity": 84,
+      "rain": 4.9,
+      "snow": 0.0,
+      "wind_speed": 4.9,
+      "wind_deg": 268,
+      "uvi": 9.7,
+      "weather": [
+        {
+          "description": "thunderstorm"
+        }
+      ]
+    },
+    {
+      "hour": 104,
+      "temp": 30.5,
+      "humidity": 86,
+      "rain": 4.5,
+      "snow": 0.0,
+      "wind_speed": 4.4,
+      "wind_deg": 244,
+      "uvi": 9.9,
+      "weather": [
+        {
+          "description": "thunderstorm"
+        }
+      ]
+    },
+    {
+      "hour": 105,
+      "temp": 29.9,
+      "humidity": 85,
+      "rain": 5.6,
+      "snow": 0.0,
+      "wind_speed": 2.7,
+      "wind_deg": 230,
+      "uvi": 8.5,
+      "weather": [
+        {
+          "description": "thunderstorm"
+        }
+      ]
+    },
+    {
+      "hour": 106,
+      "temp": 30.4,
+      "humidity": 88,
+      "rain": 4.6,
+      "snow": 0.0,
+      "wind_speed": 4.4,
+      "wind_deg": 40,
+      "uvi": 8.1,
+      "weather": [
+        {
+          "description": "thunderstorm"
+        }
+      ]
+    },
+    {
+      "hour": 107,
+      "temp": 31.4,
+      "humidity": 70,
+      "rain": 4.7,
+      "snow": 0.0,
+      "wind_speed": 4.0,
+      "wind_deg": 238,
+      "uvi": 9.2,
+      "weather": [
+        {
+          "description": "thunderstorm"
+        }
+      ]
+    },
+    {
+      "hour": 108,
+      "temp": 31.1,
+      "humidity": 82,
+      "rain": 4.4,
+      "snow": 0.0,
+      "wind_speed": 3.8,
+      "wind_deg": 185,
+      "uvi": 10.2,
+      "weather": [
+        {
+          "description": "thunderstorm"
+        }
+      ]
+    },
+    {
+      "hour": 109,
+      "temp": 30.3,
+      "humidity": 77,
+      "rain": 6.0,
+      "snow": 0.0,
+      "wind_speed": 4.0,
+      "wind_deg": 89,
+      "uvi": 10.9,
+      "weather": [
+        {
+          "description": "thunderstorm"
+        }
+      ]
+    },
+    {
+      "hour": 110,
+      "temp": 31.6,
+      "humidity": 89,
+      "rain": 2.2,
+      "snow": 0.0,
+      "wind_speed": 2.3,
+      "wind_deg": 67,
+      "uvi": 10.7,
+      "weather": [
+        {
+          "description": "thunderstorm"
+        }
+      ]
+    },
+    {
+      "hour": 111,
+      "temp": 29.6,
+      "humidity": 74,
+      "rain": 4.0,
+      "snow": 0.0,
+      "wind_speed": 2.5,
+      "wind_deg": 110,
+      "uvi": 10.6,
+      "weather": [
+        {
+          "description": "thunderstorm"
+        }
+      ]
+    },
+    {
+      "hour": 112,
+      "temp": 29.6,
+      "humidity": 77,
+      "rain": 5.8,
+      "snow": 0.0,
+      "wind_speed": 4.7,
+      "wind_deg": 202,
+      "uvi": 9.1,
+      "weather": [
+        {
+          "description": "thunderstorm"
+        }
+      ]
+    },
+    {
+      "hour": 113,
+      "temp": 29.9,
+      "humidity": 78,
+      "rain": 3.9,
+      "snow": 0.0,
+      "wind_speed": 4.8,
+      "wind_deg": 15,
+      "uvi": 10.0,
+      "weather": [
+        {
+          "description": "thunderstorm"
+        }
+      ]
+    },
+    {
+      "hour": 114,
+      "temp": 30.9,
+      "humidity": 76,
+      "rain": 5.2,
+      "snow": 0.0,
+      "wind_speed": 3.0,
+      "wind_deg": 255,
+      "uvi": 9.6,
+      "weather": [
+        {
+          "description": "thunderstorm"
+        }
+      ]
+    },
+    {
+      "hour": 115,
+      "temp": 23.0,
+      "humidity": 71,
+      "rain": 2.9,
+      "snow": 0.0,
+      "wind_speed": 3.5,
+      "wind_deg": 75,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "thunderstorm"
+        }
+      ]
+    },
+    {
+      "hour": 116,
+      "temp": 22.7,
+      "humidity": 72,
+      "rain": 6.0,
+      "snow": 0.0,
+      "wind_speed": 4.0,
+      "wind_deg": 342,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "thunderstorm"
+        }
+      ]
+    },
+    {
+      "hour": 117,
+      "temp": 25.2,
+      "humidity": 79,
+      "rain": 3.5,
+      "snow": 0.0,
+      "wind_speed": 3.3,
+      "wind_deg": 340,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "thunderstorm"
+        }
+      ]
+    },
+    {
+      "hour": 118,
+      "temp": 23.9,
+      "humidity": 80,
+      "rain": 3.2,
+      "snow": 0.0,
+      "wind_speed": 5.0,
+      "wind_deg": 54,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "thunderstorm"
+        }
+      ]
+    },
+    {
+      "hour": 119,
+      "temp": 22.9,
+      "humidity": 84,
+      "rain": 2.7,
+      "snow": 0.0,
+      "wind_speed": 4.5,
+      "wind_deg": 144,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "thunderstorm"
+        }
+      ]
+    },
+    {
+      "hour": 120,
+      "temp": 22.4,
+      "humidity": 79,
+      "rain": 1.2,
+      "snow": 0.0,
+      "wind_speed": 2.4,
+      "wind_deg": 66,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "hot"
+        }
+      ]
+    },
+    {
+      "hour": 121,
+      "temp": 20.2,
+      "humidity": 67,
+      "rain": 3.4,
+      "snow": 0.0,
+      "wind_speed": 1.4,
+      "wind_deg": 27,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "hot"
+        }
+      ]
+    },
+    {
+      "hour": 122,
+      "temp": 20.5,
+      "humidity": 74,
+      "rain": 2.4,
+      "snow": 0.0,
+      "wind_speed": 1.4,
+      "wind_deg": 339,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "hot"
+        }
+      ]
+    },
+    {
+      "hour": 123,
+      "temp": 20.4,
+      "humidity": 69,
+      "rain": 1.7,
+      "snow": 0.0,
+      "wind_speed": 2.4,
+      "wind_deg": 174,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "hot"
+        }
+      ]
+    },
+    {
+      "hour": 124,
+      "temp": 22.3,
+      "humidity": 78,
+      "rain": 3.2,
+      "snow": 0.0,
+      "wind_speed": 1.6,
+      "wind_deg": 150,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "hot"
+        }
+      ]
+    },
+    {
+      "hour": 125,
+      "temp": 19.9,
+      "humidity": 75,
+      "rain": 2.1,
+      "snow": 0.0,
+      "wind_speed": 3.8,
+      "wind_deg": 232,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "hot"
+        }
+      ]
+    },
+    {
+      "hour": 126,
+      "temp": 20.8,
+      "humidity": 77,
+      "rain": 5.0,
+      "snow": 0.0,
+      "wind_speed": 1.6,
+      "wind_deg": 66,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "hot"
+        }
+      ]
+    },
+    {
+      "hour": 127,
+      "temp": 26.7,
+      "humidity": 75,
+      "rain": 3.4,
+      "snow": 0.0,
+      "wind_speed": 1.5,
+      "wind_deg": 217,
+      "uvi": 8.0,
+      "weather": [
+        {
+          "description": "hot"
+        }
+      ]
+    },
+    {
+      "hour": 128,
+      "temp": 26.8,
+      "humidity": 73,
+      "rain": 1.5,
+      "snow": 0.0,
+      "wind_speed": 1.9,
+      "wind_deg": 239,
+      "uvi": 9.9,
+      "weather": [
+        {
+          "description": "hot"
+        }
+      ]
+    },
+    {
+      "hour": 129,
+      "temp": 28.3,
+      "humidity": 73,
+      "rain": 3.8,
+      "snow": 0.0,
+      "wind_speed": 3.8,
+      "wind_deg": 191,
+      "uvi": 9.7,
+      "weather": [
+        {
+          "description": "hot"
+        }
+      ]
+    },
+    {
+      "hour": 130,
+      "temp": 27.7,
+      "humidity": 67,
+      "rain": 1.9,
+      "snow": 0.0,
+      "wind_speed": 2.4,
+      "wind_deg": 155,
+      "uvi": 7.2,
+      "weather": [
+        {
+          "description": "hot"
+        }
+      ]
+    },
+    {
+      "hour": 131,
+      "temp": 28.8,
+      "humidity": 71,
+      "rain": 2.4,
+      "snow": 0.0,
+      "wind_speed": 2.7,
+      "wind_deg": 9,
+      "uvi": 7.3,
+      "weather": [
+        {
+          "description": "hot"
+        }
+      ]
+    },
+    {
+      "hour": 132,
+      "temp": 27.9,
+      "humidity": 75,
+      "rain": 1.6,
+      "snow": 0.0,
+      "wind_speed": 2.0,
+      "wind_deg": 153,
+      "uvi": 8.3,
+      "weather": [
+        {
+          "description": "hot"
+        }
+      ]
+    },
+    {
+      "hour": 133,
+      "temp": 28.3,
+      "humidity": 68,
+      "rain": 2.8,
+      "snow": 0.0,
+      "wind_speed": 2.8,
+      "wind_deg": 45,
+      "uvi": 8.7,
+      "weather": [
+        {
+          "description": "hot"
+        }
+      ]
+    },
+    {
+      "hour": 134,
+      "temp": 28.0,
+      "humidity": 75,
+      "rain": 1.7,
+      "snow": 0.0,
+      "wind_speed": 3.0,
+      "wind_deg": 352,
+      "uvi": 9.6,
+      "weather": [
+        {
+          "description": "hot"
+        }
+      ]
+    },
+    {
+      "hour": 135,
+      "temp": 27.8,
+      "humidity": 67,
+      "rain": 2.3,
+      "snow": 0.0,
+      "wind_speed": 3.0,
+      "wind_deg": 118,
+      "uvi": 9.7,
+      "weather": [
+        {
+          "description": "hot"
+        }
+      ]
+    },
+    {
+      "hour": 136,
+      "temp": 28.4,
+      "humidity": 82,
+      "rain": 1.6,
+      "snow": 0.0,
+      "wind_speed": 2.6,
+      "wind_deg": 133,
+      "uvi": 9.6,
+      "weather": [
+        {
+          "description": "hot"
+        }
+      ]
+    },
+    {
+      "hour": 137,
+      "temp": 27.1,
+      "humidity": 80,
+      "rain": 3.9,
+      "snow": 0.0,
+      "wind_speed": 2.2,
+      "wind_deg": 175,
+      "uvi": 9.7,
+      "weather": [
+        {
+          "description": "hot"
+        }
+      ]
+    },
+    {
+      "hour": 138,
+      "temp": 26.7,
+      "humidity": 84,
+      "rain": 3.4,
+      "snow": 0.0,
+      "wind_speed": 1.1,
+      "wind_deg": 359,
+      "uvi": 9.2,
+      "weather": [
+        {
+          "description": "hot"
+        }
+      ]
+    },
+    {
+      "hour": 139,
+      "temp": 21.4,
+      "humidity": 70,
+      "rain": 2.8,
+      "snow": 0.0,
+      "wind_speed": 2.6,
+      "wind_deg": 129,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "hot"
+        }
+      ]
+    },
+    {
+      "hour": 140,
+      "temp": 20.0,
+      "humidity": 78,
+      "rain": 2.7,
+      "snow": 0.0,
+      "wind_speed": 1.6,
+      "wind_deg": 103,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "hot"
+        }
+      ]
+    },
+    {
+      "hour": 141,
+      "temp": 20.4,
+      "humidity": 65,
+      "rain": 3.4,
+      "snow": 0.0,
+      "wind_speed": 1.2,
+      "wind_deg": 63,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "hot"
+        }
+      ]
+    },
+    {
+      "hour": 142,
+      "temp": 22.4,
+      "humidity": 80,
+      "rain": 2.6,
+      "snow": 0.0,
+      "wind_speed": 1.4,
+      "wind_deg": 208,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "hot"
+        }
+      ]
+    },
+    {
+      "hour": 143,
+      "temp": 21.5,
+      "humidity": 67,
+      "rain": 3.8,
+      "snow": 0.0,
+      "wind_speed": 1.2,
+      "wind_deg": 230,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "hot"
+        }
+      ]
+    },
+    {
+      "hour": 144,
+      "temp": 15.5,
+      "humidity": 55,
+      "rain": 0.8,
+      "snow": 0.0,
+      "wind_speed": 1.3,
+      "wind_deg": 106,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 145,
+      "temp": 14.6,
+      "humidity": 66,
+      "rain": 1.0,
+      "snow": 0.0,
+      "wind_speed": 1.4,
+      "wind_deg": 1,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 146,
+      "temp": 15.0,
+      "humidity": 67,
+      "rain": 0.1,
+      "snow": 0.0,
+      "wind_speed": 1.3,
+      "wind_deg": 279,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 147,
+      "temp": 16.5,
+      "humidity": 72,
+      "rain": 1.0,
+      "snow": 0.0,
+      "wind_speed": 1.5,
+      "wind_deg": 33,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 148,
+      "temp": 13.9,
+      "humidity": 69,
+      "rain": 1.7,
+      "snow": 0.0,
+      "wind_speed": 2.5,
+      "wind_deg": 139,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 149,
+      "temp": 13.5,
+      "humidity": 69,
+      "rain": 1.6,
+      "snow": 0.0,
+      "wind_speed": 3.0,
+      "wind_deg": 327,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 150,
+      "temp": 14.2,
+      "humidity": 67,
+      "rain": 1.9,
+      "snow": 0.0,
+      "wind_speed": 1.6,
+      "wind_deg": 188,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 151,
+      "temp": 24.1,
+      "humidity": 57,
+      "rain": 0.1,
+      "snow": 0.0,
+      "wind_speed": 1.7,
+      "wind_deg": 88,
+      "uvi": 4.6,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 152,
+      "temp": 24.3,
+      "humidity": 72,
+      "rain": 1.0,
+      "snow": 0.0,
+      "wind_speed": 2.2,
+      "wind_deg": 72,
+      "uvi": 3.4,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 153,
+      "temp": 22.6,
+      "humidity": 58,
+      "rain": 0.4,
+      "snow": 0.0,
+      "wind_speed": 2.5,
+      "wind_deg": 12,
+      "uvi": 5.0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 154,
+      "temp": 23.9,
+      "humidity": 62,
+      "rain": 0.1,
+      "snow": 0.0,
+      "wind_speed": 2.2,
+      "wind_deg": 89,
+      "uvi": 3.8,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 155,
+      "temp": 22.7,
+      "humidity": 70,
+      "rain": 2.0,
+      "snow": 0.0,
+      "wind_speed": 1.0,
+      "wind_deg": 13,
+      "uvi": 4.0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 156,
+      "temp": 23.4,
+      "humidity": 66,
+      "rain": 0.6,
+      "snow": 0.0,
+      "wind_speed": 2.6,
+      "wind_deg": 172,
+      "uvi": 4.1,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 157,
+      "temp": 22.1,
+      "humidity": 73,
+      "rain": 1.0,
+      "snow": 0.0,
+      "wind_speed": 1.6,
+      "wind_deg": 158,
+      "uvi": 3.5,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 158,
+      "temp": 21.6,
+      "humidity": 60,
+      "rain": 0.8,
+      "snow": 0.0,
+      "wind_speed": 1.3,
+      "wind_deg": 281,
+      "uvi": 3.1,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 159,
+      "temp": 22.2,
+      "humidity": 72,
+      "rain": 1.5,
+      "snow": 0.0,
+      "wind_speed": 2.2,
+      "wind_deg": 28,
+      "uvi": 3.0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 160,
+      "temp": 21.6,
+      "humidity": 63,
+      "rain": 2.0,
+      "snow": 0.0,
+      "wind_speed": 1.4,
+      "wind_deg": 196,
+      "uvi": 3.3,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 161,
+      "temp": 24.3,
+      "humidity": 71,
+      "rain": 2.0,
+      "snow": 0.0,
+      "wind_speed": 2.7,
+      "wind_deg": 329,
+      "uvi": 4.4,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 162,
+      "temp": 22.8,
+      "humidity": 67,
+      "rain": 1.2,
+      "snow": 0.0,
+      "wind_speed": 1.1,
+      "wind_deg": 82,
+      "uvi": 3.2,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 163,
+      "temp": 15.1,
+      "humidity": 63,
+      "rain": 1.7,
+      "snow": 0.0,
+      "wind_speed": 2.7,
+      "wind_deg": 277,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 164,
+      "temp": 15.0,
+      "humidity": 58,
+      "rain": 0.7,
+      "snow": 0.0,
+      "wind_speed": 1.5,
+      "wind_deg": 121,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 165,
+      "temp": 16.2,
+      "humidity": 63,
+      "rain": 1.4,
+      "snow": 0.0,
+      "wind_speed": 2.4,
+      "wind_deg": 317,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 166,
+      "temp": 14.2,
+      "humidity": 55,
+      "rain": 0.7,
+      "snow": 0.0,
+      "wind_speed": 2.4,
+      "wind_deg": 145,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 167,
+      "temp": 13.7,
+      "humidity": 71,
+      "rain": 1.4,
+      "snow": 0.0,
+      "wind_speed": 2.9,
+      "wind_deg": 261,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "clear sky"
+        }
+      ]
+    },
+    {
+      "hour": 168,
+      "temp": 10.2,
+      "humidity": 56,
+      "rain": 0.9,
+      "snow": 0.0,
+      "wind_speed": 1.6,
+      "wind_deg": 303,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 169,
+      "temp": 11.1,
+      "humidity": 64,
+      "rain": 0.8,
+      "snow": 0.0,
+      "wind_speed": 1.7,
+      "wind_deg": 356,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 170,
+      "temp": 11.1,
+      "humidity": 52,
+      "rain": 0.8,
+      "snow": 0.0,
+      "wind_speed": 2.4,
+      "wind_deg": 94,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 171,
+      "temp": 10.7,
+      "humidity": 62,
+      "rain": 0.9,
+      "snow": 0.0,
+      "wind_speed": 1.1,
+      "wind_deg": 287,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 172,
+      "temp": 11.0,
+      "humidity": 67,
+      "rain": 0.3,
+      "snow": 0.0,
+      "wind_speed": 1.0,
+      "wind_deg": 316,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 173,
+      "temp": 9.5,
+      "humidity": 62,
+      "rain": 0.8,
+      "snow": 0.0,
+      "wind_speed": 2.0,
+      "wind_deg": 216,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 174,
+      "temp": 10.6,
+      "humidity": 50,
+      "rain": 0.5,
+      "snow": 0.0,
+      "wind_speed": 1.1,
+      "wind_deg": 242,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 175,
+      "temp": 16.6,
+      "humidity": 58,
+      "rain": 0.9,
+      "snow": 0.0,
+      "wind_speed": 1.4,
+      "wind_deg": 98,
+      "uvi": 2.3,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 176,
+      "temp": 17.6,
+      "humidity": 67,
+      "rain": 0.1,
+      "snow": 0.0,
+      "wind_speed": 2.1,
+      "wind_deg": 209,
+      "uvi": 3.0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 177,
+      "temp": 17.2,
+      "humidity": 58,
+      "rain": 0.3,
+      "snow": 0.0,
+      "wind_speed": 1.4,
+      "wind_deg": 235,
+      "uvi": 3.0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 178,
+      "temp": 17.0,
+      "humidity": 70,
+      "rain": 0.8,
+      "snow": 0.0,
+      "wind_speed": 2.7,
+      "wind_deg": 76,
+      "uvi": 3.9,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 179,
+      "temp": 16.1,
+      "humidity": 65,
+      "rain": 0.6,
+      "snow": 0.0,
+      "wind_speed": 2.0,
+      "wind_deg": 276,
+      "uvi": 3.4,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 180,
+      "temp": 18.5,
+      "humidity": 68,
+      "rain": 0.9,
+      "snow": 0.0,
+      "wind_speed": 1.4,
+      "wind_deg": 204,
+      "uvi": 2.4,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 181,
+      "temp": 18.4,
+      "humidity": 53,
+      "rain": 0.8,
+      "snow": 0.0,
+      "wind_speed": 2.0,
+      "wind_deg": 56,
+      "uvi": 2.3,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 182,
+      "temp": 16.9,
+      "humidity": 66,
+      "rain": 0.3,
+      "snow": 0.0,
+      "wind_speed": 2.9,
+      "wind_deg": 244,
+      "uvi": 2.2,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 183,
+      "temp": 15.7,
+      "humidity": 67,
+      "rain": 0.4,
+      "snow": 0.0,
+      "wind_speed": 1.1,
+      "wind_deg": 12,
+      "uvi": 2.8,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 184,
+      "temp": 17.9,
+      "humidity": 53,
+      "rain": 0.7,
+      "snow": 0.0,
+      "wind_speed": 3.0,
+      "wind_deg": 294,
+      "uvi": 3.0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 185,
+      "temp": 17.5,
+      "humidity": 65,
+      "rain": 0.7,
+      "snow": 0.0,
+      "wind_speed": 1.4,
+      "wind_deg": 316,
+      "uvi": 3.2,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 186,
+      "temp": 17.1,
+      "humidity": 68,
+      "rain": 0.6,
+      "snow": 0.0,
+      "wind_speed": 2.3,
+      "wind_deg": 346,
+      "uvi": 3.9,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 187,
+      "temp": 11.3,
+      "humidity": 62,
+      "rain": 0.4,
+      "snow": 0.0,
+      "wind_speed": 2.5,
+      "wind_deg": 357,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 188,
+      "temp": 10.0,
+      "humidity": 64,
+      "rain": 0.5,
+      "snow": 0.0,
+      "wind_speed": 2.6,
+      "wind_deg": 348,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 189,
+      "temp": 9.4,
+      "humidity": 56,
+      "rain": 0.9,
+      "snow": 0.0,
+      "wind_speed": 2.8,
+      "wind_deg": 145,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 190,
+      "temp": 10.4,
+      "humidity": 68,
+      "rain": 0.2,
+      "snow": 0.0,
+      "wind_speed": 2.2,
+      "wind_deg": 252,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 191,
+      "temp": 9.2,
+      "humidity": 52,
+      "rain": 0.3,
+      "snow": 0.0,
+      "wind_speed": 1.1,
+      "wind_deg": 43,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 192,
+      "temp": 2.9,
+      "humidity": 49,
+      "rain": 0.6,
+      "snow": 0.2,
+      "wind_speed": 3.1,
+      "wind_deg": 288,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 193,
+      "temp": 1.8,
+      "humidity": 65,
+      "rain": 0.8,
+      "snow": 0.1,
+      "wind_speed": 3.8,
+      "wind_deg": 16,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 194,
+      "temp": 3.8,
+      "humidity": 53,
+      "rain": 1.0,
+      "snow": 0.1,
+      "wind_speed": 2.3,
+      "wind_deg": 236,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 195,
+      "temp": 2.5,
+      "humidity": 65,
+      "rain": 1.0,
+      "snow": 0.2,
+      "wind_speed": 3.5,
+      "wind_deg": 37,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 196,
+      "temp": 3.9,
+      "humidity": 46,
+      "rain": 0.6,
+      "snow": 0.2,
+      "wind_speed": 2.9,
+      "wind_deg": 241,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 197,
+      "temp": 3.3,
+      "humidity": 62,
+      "rain": 0.4,
+      "snow": 0.1,
+      "wind_speed": 3.4,
+      "wind_deg": 307,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 198,
+      "temp": 1.7,
+      "humidity": 45,
+      "rain": 0.3,
+      "snow": 0.0,
+      "wind_speed": 2.5,
+      "wind_deg": 292,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 199,
+      "temp": 11.9,
+      "humidity": 57,
+      "rain": 0.9,
+      "snow": 0.1,
+      "wind_speed": 3.1,
+      "wind_deg": 317,
+      "uvi": 3.0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 200,
+      "temp": 10.7,
+      "humidity": 62,
+      "rain": 0.7,
+      "snow": 0.1,
+      "wind_speed": 3.9,
+      "wind_deg": 82,
+      "uvi": 2.9,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 201,
+      "temp": 12.1,
+      "humidity": 51,
+      "rain": 0.7,
+      "snow": 0.1,
+      "wind_speed": 2.4,
+      "wind_deg": 177,
+      "uvi": 2.4,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 202,
+      "temp": 11.3,
+      "humidity": 60,
+      "rain": 0.9,
+      "snow": 0.1,
+      "wind_speed": 2.8,
+      "wind_deg": 223,
+      "uvi": 2.3,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 203,
+      "temp": 12.4,
+      "humidity": 49,
+      "rain": 0.6,
+      "snow": 0.1,
+      "wind_speed": 2.3,
+      "wind_deg": 174,
+      "uvi": 2.9,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 204,
+      "temp": 10.5,
+      "humidity": 49,
+      "rain": 0.2,
+      "snow": 0.1,
+      "wind_speed": 3.2,
+      "wind_deg": 277,
+      "uvi": 1.3,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 205,
+      "temp": 10.1,
+      "humidity": 46,
+      "rain": 0.1,
+      "snow": 0.2,
+      "wind_speed": 2.1,
+      "wind_deg": 48,
+      "uvi": 2.6,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 206,
+      "temp": 9.7,
+      "humidity": 51,
+      "rain": 0.1,
+      "snow": 0.1,
+      "wind_speed": 4.0,
+      "wind_deg": 125,
+      "uvi": 2.8,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 207,
+      "temp": 12.4,
+      "humidity": 53,
+      "rain": 0.3,
+      "snow": 0.0,
+      "wind_speed": 2.4,
+      "wind_deg": 36,
+      "uvi": 1.8,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 208,
+      "temp": 9.8,
+      "humidity": 54,
+      "rain": 0.3,
+      "snow": 0.2,
+      "wind_speed": 2.5,
+      "wind_deg": 144,
+      "uvi": 1.3,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 209,
+      "temp": 11.1,
+      "humidity": 53,
+      "rain": 0.4,
+      "snow": 0.0,
+      "wind_speed": 3.0,
+      "wind_deg": 76,
+      "uvi": 2.6,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 210,
+      "temp": 10.8,
+      "humidity": 64,
+      "rain": 0.5,
+      "snow": 0.0,
+      "wind_speed": 3.7,
+      "wind_deg": 231,
+      "uvi": 2.5,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 211,
+      "temp": 3.0,
+      "humidity": 65,
+      "rain": 0.3,
+      "snow": 0.2,
+      "wind_speed": 2.7,
+      "wind_deg": 306,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 212,
+      "temp": 2.5,
+      "humidity": 45,
+      "rain": 0.2,
+      "snow": 0.1,
+      "wind_speed": 3.8,
+      "wind_deg": 56,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 213,
+      "temp": 1.9,
+      "humidity": 48,
+      "rain": 0.4,
+      "snow": 0.2,
+      "wind_speed": 3.5,
+      "wind_deg": 247,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 214,
+      "temp": 1.7,
+      "humidity": 60,
+      "rain": 0.5,
+      "snow": 0.2,
+      "wind_speed": 3.4,
+      "wind_deg": 194,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 215,
+      "temp": 2.8,
+      "humidity": 53,
+      "rain": 0.3,
+      "snow": 0.1,
+      "wind_speed": 2.8,
+      "wind_deg": 175,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light rain"
+        }
+      ]
+    },
+    {
+      "hour": 216,
+      "temp": -3.7,
+      "humidity": 46,
+      "rain": 0.0,
+      "snow": 0.9,
+      "wind_speed": 2.1,
+      "wind_deg": 177,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light snow"
+        }
+      ]
+    },
+    {
+      "hour": 217,
+      "temp": -4.9,
+      "humidity": 47,
+      "rain": 0.0,
+      "snow": 1.1,
+      "wind_speed": 3.8,
+      "wind_deg": 314,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light snow"
+        }
+      ]
+    },
+    {
+      "hour": 218,
+      "temp": -3.3,
+      "humidity": 50,
+      "rain": 0.0,
+      "snow": 1.3,
+      "wind_speed": 2.7,
+      "wind_deg": 100,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light snow"
+        }
+      ]
+    },
+    {
+      "hour": 219,
+      "temp": -3.3,
+      "humidity": 54,
+      "rain": 0.0,
+      "snow": 1.0,
+      "wind_speed": 2.7,
+      "wind_deg": 190,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light snow"
+        }
+      ]
+    },
+    {
+      "hour": 220,
+      "temp": -5.3,
+      "humidity": 51,
+      "rain": 0.0,
+      "snow": 0.9,
+      "wind_speed": 3.6,
+      "wind_deg": 318,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light snow"
+        }
+      ]
+    },
+    {
+      "hour": 221,
+      "temp": -2.9,
+      "humidity": 42,
+      "rain": 0.0,
+      "snow": 1.3,
+      "wind_speed": 3.5,
+      "wind_deg": 186,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light snow"
+        }
+      ]
+    },
+    {
+      "hour": 222,
+      "temp": -4.6,
+      "humidity": 53,
+      "rain": 0.0,
+      "snow": 0.9,
+      "wind_speed": 3.5,
+      "wind_deg": 245,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light snow"
+        }
+      ]
+    },
+    {
+      "hour": 223,
+      "temp": 4.9,
+      "humidity": 47,
+      "rain": 0.0,
+      "snow": 0.7,
+      "wind_speed": 3.1,
+      "wind_deg": 96,
+      "uvi": 0.3,
+      "weather": [
+        {
+          "description": "light snow"
+        }
+      ]
+    },
+    {
+      "hour": 224,
+      "temp": 3.1,
+      "humidity": 60,
+      "rain": 0.0,
+      "snow": 0.8,
+      "wind_speed": 2.6,
+      "wind_deg": 84,
+      "uvi": 0.5,
+      "weather": [
+        {
+          "description": "light snow"
+        }
+      ]
+    },
+    {
+      "hour": 225,
+      "temp": 4.5,
+      "humidity": 57,
+      "rain": 0.0,
+      "snow": 1.3,
+      "wind_speed": 2.5,
+      "wind_deg": 272,
+      "uvi": 0.8,
+      "weather": [
+        {
+          "description": "light snow"
+        }
+      ]
+    },
+    {
+      "hour": 226,
+      "temp": 4.3,
+      "humidity": 47,
+      "rain": 0.0,
+      "snow": 0.5,
+      "wind_speed": 3.0,
+      "wind_deg": 110,
+      "uvi": 0.5,
+      "weather": [
+        {
+          "description": "light snow"
+        }
+      ]
+    },
+    {
+      "hour": 227,
+      "temp": 4.6,
+      "humidity": 42,
+      "rain": 0.0,
+      "snow": 0.5,
+      "wind_speed": 3.9,
+      "wind_deg": 88,
+      "uvi": 0.8,
+      "weather": [
+        {
+          "description": "light snow"
+        }
+      ]
+    },
+    {
+      "hour": 228,
+      "temp": 4.4,
+      "humidity": 50,
+      "rain": 0.0,
+      "snow": 1.5,
+      "wind_speed": 2.5,
+      "wind_deg": 63,
+      "uvi": 0.2,
+      "weather": [
+        {
+          "description": "light snow"
+        }
+      ]
+    },
+    {
+      "hour": 229,
+      "temp": 4.2,
+      "humidity": 53,
+      "rain": 0.0,
+      "snow": 1.1,
+      "wind_speed": 3.1,
+      "wind_deg": 28,
+      "uvi": 0.8,
+      "weather": [
+        {
+          "description": "light snow"
+        }
+      ]
+    },
+    {
+      "hour": 230,
+      "temp": 2.6,
+      "humidity": 46,
+      "rain": 0.0,
+      "snow": 1.1,
+      "wind_speed": 2.3,
+      "wind_deg": 113,
+      "uvi": 0.0,
+      "weather": [
+        {
+          "description": "light snow"
+        }
+      ]
+    },
+    {
+      "hour": 231,
+      "temp": 3.2,
+      "humidity": 43,
+      "rain": 0.0,
+      "snow": 1.0,
+      "wind_speed": 2.5,
+      "wind_deg": 297,
+      "uvi": 0.0,
+      "weather": [
+        {
+          "description": "light snow"
+        }
+      ]
+    },
+    {
+      "hour": 232,
+      "temp": 3.5,
+      "humidity": 40,
+      "rain": 0.0,
+      "snow": 0.8,
+      "wind_speed": 3.3,
+      "wind_deg": 355,
+      "uvi": 0.0,
+      "weather": [
+        {
+          "description": "light snow"
+        }
+      ]
+    },
+    {
+      "hour": 233,
+      "temp": 2.5,
+      "humidity": 55,
+      "rain": 0.0,
+      "snow": 0.7,
+      "wind_speed": 3.3,
+      "wind_deg": 15,
+      "uvi": 0.8,
+      "weather": [
+        {
+          "description": "light snow"
+        }
+      ]
+    },
+    {
+      "hour": 234,
+      "temp": 5.2,
+      "humidity": 47,
+      "rain": 0.0,
+      "snow": 1.4,
+      "wind_speed": 2.5,
+      "wind_deg": 78,
+      "uvi": 0.2,
+      "weather": [
+        {
+          "description": "light snow"
+        }
+      ]
+    },
+    {
+      "hour": 235,
+      "temp": -5.0,
+      "humidity": 58,
+      "rain": 0.0,
+      "snow": 0.8,
+      "wind_speed": 2.9,
+      "wind_deg": 235,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light snow"
+        }
+      ]
+    },
+    {
+      "hour": 236,
+      "temp": -5.1,
+      "humidity": 50,
+      "rain": 0.0,
+      "snow": 0.7,
+      "wind_speed": 2.1,
+      "wind_deg": 344,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light snow"
+        }
+      ]
+    },
+    {
+      "hour": 237,
+      "temp": -5.4,
+      "humidity": 59,
+      "rain": 0.0,
+      "snow": 0.7,
+      "wind_speed": 3.3,
+      "wind_deg": 12,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light snow"
+        }
+      ]
+    },
+    {
+      "hour": 238,
+      "temp": -4.8,
+      "humidity": 59,
+      "rain": 0.0,
+      "snow": 0.6,
+      "wind_speed": 3.0,
+      "wind_deg": 39,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light snow"
+        }
+      ]
+    },
+    {
+      "hour": 239,
+      "temp": -3.5,
+      "humidity": 44,
+      "rain": 0.0,
+      "snow": 0.6,
+      "wind_speed": 3.2,
+      "wind_deg": 139,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "light snow"
+        }
+      ]
+    },
+    {
+      "hour": 240,
+      "temp": -7.2,
+      "humidity": 47,
+      "rain": 0.0,
+      "snow": 1.7,
+      "wind_speed": 2.5,
+      "wind_deg": 330,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "snow"
+        }
+      ]
+    },
+    {
+      "hour": 241,
+      "temp": -9.4,
+      "humidity": 43,
+      "rain": 0.0,
+      "snow": 1.4,
+      "wind_speed": 4.2,
+      "wind_deg": 157,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "snow"
+        }
+      ]
+    },
+    {
+      "hour": 242,
+      "temp": -8.4,
+      "humidity": 39,
+      "rain": 0.0,
+      "snow": 1.5,
+      "wind_speed": 3.0,
+      "wind_deg": 183,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "snow"
+        }
+      ]
+    },
+    {
+      "hour": 243,
+      "temp": -6.9,
+      "humidity": 40,
+      "rain": 0.0,
+      "snow": 1.0,
+      "wind_speed": 4.2,
+      "wind_deg": 103,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "snow"
+        }
+      ]
+    },
+    {
+      "hour": 244,
+      "temp": -7.4,
+      "humidity": 37,
+      "rain": 0.0,
+      "snow": 1.7,
+      "wind_speed": 3.8,
+      "wind_deg": 281,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "snow"
+        }
+      ]
+    },
+    {
+      "hour": 245,
+      "temp": -8.9,
+      "humidity": 52,
+      "rain": 0.0,
+      "snow": 2.1,
+      "wind_speed": 2.5,
+      "wind_deg": 296,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "snow"
+        }
+      ]
+    },
+    {
+      "hour": 246,
+      "temp": -9.0,
+      "humidity": 41,
+      "rain": 0.0,
+      "snow": 2.4,
+      "wind_speed": 4.6,
+      "wind_deg": 72,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "snow"
+        }
+      ]
+    },
+    {
+      "hour": 247,
+      "temp": 0.2,
+      "humidity": 42,
+      "rain": 0.0,
+      "snow": 2.4,
+      "wind_speed": 2.8,
+      "wind_deg": 100,
+      "uvi": 0.4,
+      "weather": [
+        {
+          "description": "snow"
+        }
+      ]
+    },
+    {
+      "hour": 248,
+      "temp": -1.0,
+      "humidity": 49,
+      "rain": 0.0,
+      "snow": 2.2,
+      "wind_speed": 4.4,
+      "wind_deg": 141,
+      "uvi": 0.4,
+      "weather": [
+        {
+          "description": "snow"
+        }
+      ]
+    },
+    {
+      "hour": 249,
+      "temp": -2.4,
+      "humidity": 47,
+      "rain": 0.0,
+      "snow": 1.0,
+      "wind_speed": 4.2,
+      "wind_deg": 16,
+      "uvi": 0.5,
+      "weather": [
+        {
+          "description": "snow"
+        }
+      ]
+    },
+    {
+      "hour": 250,
+      "temp": -0.5,
+      "humidity": 35,
+      "rain": 0.0,
+      "snow": 2.0,
+      "wind_speed": 4.5,
+      "wind_deg": 62,
+      "uvi": 0.6,
+      "weather": [
+        {
+          "description": "snow"
+        }
+      ]
+    },
+    {
+      "hour": 251,
+      "temp": -1.5,
+      "humidity": 53,
+      "rain": 0.0,
+      "snow": 1.5,
+      "wind_speed": 4.6,
+      "wind_deg": 126,
+      "uvi": 0.3,
+      "weather": [
+        {
+          "description": "snow"
+        }
+      ]
+    },
+    {
+      "hour": 252,
+      "temp": 0.3,
+      "humidity": 45,
+      "rain": 0.0,
+      "snow": 2.2,
+      "wind_speed": 4.0,
+      "wind_deg": 311,
+      "uvi": 1.0,
+      "weather": [
+        {
+          "description": "snow"
+        }
+      ]
+    },
+    {
+      "hour": 253,
+      "temp": 0.1,
+      "humidity": 38,
+      "rain": 0.0,
+      "snow": 1.2,
+      "wind_speed": 4.4,
+      "wind_deg": 171,
+      "uvi": 0.9,
+      "weather": [
+        {
+          "description": "snow"
+        }
+      ]
+    },
+    {
+      "hour": 254,
+      "temp": -0.3,
+      "humidity": 53,
+      "rain": 0.0,
+      "snow": 2.2,
+      "wind_speed": 3.4,
+      "wind_deg": 36,
+      "uvi": 0.4,
+      "weather": [
+        {
+          "description": "snow"
+        }
+      ]
+    },
+    {
+      "hour": 255,
+      "temp": -1.3,
+      "humidity": 52,
+      "rain": 0.0,
+      "snow": 1.9,
+      "wind_speed": 4.0,
+      "wind_deg": 251,
+      "uvi": 0.2,
+      "weather": [
+        {
+          "description": "snow"
+        }
+      ]
+    },
+    {
+      "hour": 256,
+      "temp": -2.1,
+      "humidity": 43,
+      "rain": 0.0,
+      "snow": 1.7,
+      "wind_speed": 2.5,
+      "wind_deg": 251,
+      "uvi": 0.6,
+      "weather": [
+        {
+          "description": "snow"
+        }
+      ]
+    },
+    {
+      "hour": 257,
+      "temp": -1.6,
+      "humidity": 39,
+      "rain": 0.0,
+      "snow": 1.6,
+      "wind_speed": 4.1,
+      "wind_deg": 212,
+      "uvi": 0.6,
+      "weather": [
+        {
+          "description": "snow"
+        }
+      ]
+    },
+    {
+      "hour": 258,
+      "temp": -1.5,
+      "humidity": 42,
+      "rain": 0.0,
+      "snow": 1.1,
+      "wind_speed": 4.8,
+      "wind_deg": 3,
+      "uvi": 0.6,
+      "weather": [
+        {
+          "description": "snow"
+        }
+      ]
+    },
+    {
+      "hour": 259,
+      "temp": -8.0,
+      "humidity": 51,
+      "rain": 0.0,
+      "snow": 2.5,
+      "wind_speed": 2.2,
+      "wind_deg": 30,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "snow"
+        }
+      ]
+    },
+    {
+      "hour": 260,
+      "temp": -7.6,
+      "humidity": 44,
+      "rain": 0.0,
+      "snow": 1.5,
+      "wind_speed": 4.7,
+      "wind_deg": 170,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "snow"
+        }
+      ]
+    },
+    {
+      "hour": 261,
+      "temp": -6.9,
+      "humidity": 42,
+      "rain": 0.0,
+      "snow": 2.1,
+      "wind_speed": 4.5,
+      "wind_deg": 84,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "snow"
+        }
+      ]
+    },
+    {
+      "hour": 262,
+      "temp": -8.7,
+      "humidity": 52,
+      "rain": 0.0,
+      "snow": 2.4,
+      "wind_speed": 4.2,
+      "wind_deg": 49,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "snow"
+        }
+      ]
+    },
+    {
+      "hour": 263,
+      "temp": -9.0,
+      "humidity": 55,
+      "rain": 0.0,
+      "snow": 2.3,
+      "wind_speed": 3.5,
+      "wind_deg": 283,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "snow"
+        }
+      ]
+    },
+    {
+      "hour": 264,
+      "temp": -3.6,
+      "humidity": 51,
+      "rain": 0.0,
+      "snow": 0.6,
+      "wind_speed": 2.7,
+      "wind_deg": 221,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 265,
+      "temp": -3.2,
+      "humidity": 53,
+      "rain": 0.0,
+      "snow": 1.6,
+      "wind_speed": 2.2,
+      "wind_deg": 143,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 266,
+      "temp": -4.5,
+      "humidity": 57,
+      "rain": 0.0,
+      "snow": 1.9,
+      "wind_speed": 3.7,
+      "wind_deg": 355,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 267,
+      "temp": -4.5,
+      "humidity": 40,
+      "rain": 0.0,
+      "snow": 0.8,
+      "wind_speed": 2.2,
+      "wind_deg": 58,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 268,
+      "temp": -3.4,
+      "humidity": 40,
+      "rain": 0.0,
+      "snow": 1.2,
+      "wind_speed": 2.4,
+      "wind_deg": 62,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 269,
+      "temp": -3.6,
+      "humidity": 45,
+      "rain": 0.0,
+      "snow": 1.1,
+      "wind_speed": 3.7,
+      "wind_deg": 308,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 270,
+      "temp": -3.3,
+      "humidity": 42,
+      "rain": 0.0,
+      "snow": 1.2,
+      "wind_speed": 4.0,
+      "wind_deg": 334,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 271,
+      "temp": 4.0,
+      "humidity": 50,
+      "rain": 0.0,
+      "snow": 1.7,
+      "wind_speed": 2.5,
+      "wind_deg": 284,
+      "uvi": 1.6,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 272,
+      "temp": 3.6,
+      "humidity": 48,
+      "rain": 0.0,
+      "snow": 0.5,
+      "wind_speed": 3.0,
+      "wind_deg": 133,
+      "uvi": 1.3,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 273,
+      "temp": 3.9,
+      "humidity": 41,
+      "rain": 0.0,
+      "snow": 0.8,
+      "wind_speed": 3.0,
+      "wind_deg": 357,
+      "uvi": 1.2,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 274,
+      "temp": 2.8,
+      "humidity": 46,
+      "rain": 0.0,
+      "snow": 1.9,
+      "wind_speed": 2.1,
+      "wind_deg": 160,
+      "uvi": 1.3,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 275,
+      "temp": 1.6,
+      "humidity": 41,
+      "rain": 0.0,
+      "snow": 1.6,
+      "wind_speed": 3.0,
+      "wind_deg": 215,
+      "uvi": 1.4,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 276,
+      "temp": 2.8,
+      "humidity": 58,
+      "rain": 0.0,
+      "snow": 1.5,
+      "wind_speed": 2.9,
+      "wind_deg": 198,
+      "uvi": 1.9,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 277,
+      "temp": 3.3,
+      "humidity": 42,
+      "rain": 0.0,
+      "snow": 1.5,
+      "wind_speed": 3.4,
+      "wind_deg": 117,
+      "uvi": 1.4,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 278,
+      "temp": 2.7,
+      "humidity": 53,
+      "rain": 0.0,
+      "snow": 1.6,
+      "wind_speed": 4.0,
+      "wind_deg": 223,
+      "uvi": 1.8,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 279,
+      "temp": 3.6,
+      "humidity": 52,
+      "rain": 0.0,
+      "snow": 1.2,
+      "wind_speed": 2.1,
+      "wind_deg": 162,
+      "uvi": 1.3,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 280,
+      "temp": 2.3,
+      "humidity": 56,
+      "rain": 0.0,
+      "snow": 2.0,
+      "wind_speed": 2.4,
+      "wind_deg": 1,
+      "uvi": 1.5,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 281,
+      "temp": 3.9,
+      "humidity": 57,
+      "rain": 0.0,
+      "snow": 0.9,
+      "wind_speed": 2.9,
+      "wind_deg": 29,
+      "uvi": 1.5,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 282,
+      "temp": 4.3,
+      "humidity": 48,
+      "rain": 0.0,
+      "snow": 1.6,
+      "wind_speed": 3.7,
+      "wind_deg": 264,
+      "uvi": 1.8,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 283,
+      "temp": -4.4,
+      "humidity": 55,
+      "rain": 0.0,
+      "snow": 0.5,
+      "wind_speed": 2.7,
+      "wind_deg": 72,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 284,
+      "temp": -3.1,
+      "humidity": 41,
+      "rain": 0.0,
+      "snow": 1.9,
+      "wind_speed": 4.0,
+      "wind_deg": 203,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 285,
+      "temp": -3.3,
+      "humidity": 60,
+      "rain": 0.0,
+      "snow": 1.6,
+      "wind_speed": 2.8,
+      "wind_deg": 323,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 286,
+      "temp": -3.9,
+      "humidity": 45,
+      "rain": 0.0,
+      "snow": 1.6,
+      "wind_speed": 3.4,
+      "wind_deg": 325,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    },
+    {
+      "hour": 287,
+      "temp": -2.1,
+      "humidity": 47,
+      "rain": 0.0,
+      "snow": 1.9,
+      "wind_speed": 2.1,
+      "wind_deg": 18,
+      "uvi": 0,
+      "weather": [
+        {
+          "description": "overcast clouds"
+        }
+      ]
+    }
+  ]
+}

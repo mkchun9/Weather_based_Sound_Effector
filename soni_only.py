@@ -66,6 +66,6 @@ def sonify_weather(hourly_data):
         s.shutdown()
 
 if __name__ == "__main__":
-    filename = "seoul.json"  # JSON 파일 경로 입력
+    filename = "data/seoul.json"  # JSON 파일 경로 입력
     hourly_data = load_weather_data(filename)
     sonify_weather(hourly_data)

@@ -1,6 +1,7 @@
 # 🎧 Weather-Sound Interaction System
 
-날씨 데이터를 기반으로 음향 효과를 실시간으로 변화시키는 사운드 인터랙션 시스템입니다. 온도, 습도, 풍향, 풍속, 자외선, 강수량 등의 기상 요소가 음악의 필터, 리버브, 피치, 볼륨 등 다양한 파라미터에 실시간으로 반영되어 몰입감 있는 오디오 경험을 제공합니다.
+ 날씨 데이터를 기반으로 음향 효과를 실시간으로 변화시키는 사운드 인터랙션 프로젝트입니다. \
+온도, 습도, 풍향, 풍속, 자외선, 강수량 등의 기상 요소가 음악의 필터, 리버브, 피치, 볼륨 등 다양한 파라미터에 실시간으로 반영되어 풍부한 음향 효과를 제공합니다.
 
 ---
 
@@ -24,14 +25,10 @@
 - 슬라이더, 버튼 등 사용자 인터페이스 제공
 - 사용자 입력에 따른 실시간 파라미터 변경
 
-### 🔁 비동기 처리 / 스레딩
-- `threading.Thread`를 활용한 백그라운드 날씨 업데이트
-- UI와 오디오 처리를 분리하여 부드러운 인터랙션 유지
-
 ### 🎵 실시간 오디오 엔진 (`pyo`)
-- `Server` 부트 및 `SfPlayer`를 통한 음악 루프 재생
+- 음악 루프 재생
 - 필터 주파수, 볼륨, 속도 등 실시간 조절 가능
-- 다양한 이펙트(`Freeverb`, `ButLP`, `Tremolo`, `HRTF`) 연동
+- 다양한 이펙트(`Freeverb`, `ButLP`, `Tremolo`, `HRTF` 등등) 연동
 
 ### 📊 데이터 시각화
 - `matplotlib`를 `wx.Panel`에 임베드하여 날씨 변화를 시각적으로 표현
@@ -41,7 +38,7 @@
 ### 📁 데이터 처리 및 매핑
 - JSON 형식의 날씨 데이터를 파싱
 - 각 수치를 사운드 파라미터로 수학적 변환 (스케일링, 범위 제한 등)
-- 사용자 설정에 따라 음악 속도나 볼륨 직접 조절 가능
+- 사용자 설정에 따라 효과 적용 빠르기기 직접 조절 가능
 
 ---
 
@@ -52,7 +49,7 @@
 ```bash
 pip install wxPython pyo matplotlib
 ```
-⚠️ wxPython은 플랫폼에 따라 설치가 어려울 수 있습니다. 공식 문서를 참고해주세요. 
+⚠️ wxPython은 플랫폼에 따라 설치가 어려울 수 있으니 공식 문서를 참고해주세요. 
 ---
 ### 2. 실행
 
@@ -67,22 +64,19 @@ python final_sonification.py
 ```
 ---
 🎯 주요 기능 요약
-사운드 디자인 요소	프로그래밍 구현 방식
-저역 필터	온도 기반 실시간 주파수 제어 (ButLP)
-리버브	습도 기반 잔향 크기 및 강도 조절 (Freeverb)
-트레몰로	풍속 기반 진폭 변조 (Tremolo)
-공간 음향(HRTF)	풍향 기반 3D 위치 제어
-볼륨	강수량 + 적설량 기반 볼륨 스케일링
-피치 변화	온도 기반 재생 속도 조절
-EQ	자외선 지수 기반 고음 강조
+| Sound Design Element     | Implementation Detail                                 |
+|--------------------------|--------------------------------------------------------|
+| Low-Pass Filter          | Temperature-based cutoff frequency (ButLP)             |
+| Reverb                   | Humidity-based wet/dry mix and decay (Freeverb)        |
+| Tremolo                  | Wind speed-based amplitude modulation                  |
+| Spatial Audio (HRTF)     | Wind direction-based stereo/spatial panning            |
+| Volume Control           | Based on precipitation and snowfall                    |
+| Pitch / Speed Control    | Controlled by temperature                              |
+| EQ (High Shelf Boost)    | Based on UV index                                      |
+
 ---
 📌 참고 사항
-이 프로젝트는 기상 데이터를 기반으로 예술적이고 몰입감 있는 오디오 경험을 제공하기 위한 실험적인 도구입니다.
-
-실제 날씨 API 연동 또는 과거 날씨 데이터 파일을 활용하여 테스트할 수 있습니다.
----
-📜 License
-MIT License
+OpenWeatherMap API의 인증키를 받아, 실제 날씨 API 연동 또는 과거 날씨 데이터 파일을 활용하여 테스트할 수 있습니다.
 ---
 🙋‍♀️ Contriabution
 이 프로젝트에 기여하고 싶다면 Pull Request를 보내주세요! 버그 제보나 개선 아이디어도 환영합니다.

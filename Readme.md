@@ -1,6 +1,6 @@
 # 🎧 Weather-Sound Interaction System
 
-An immersive audio interaction system that dynamically changes sound effects based on real-time weather data. Weather elements such as temperature, humidity, wind direction, wind speed, UV index, and precipitation influence musical parameters like filters, reverb, pitch, and volume, providing a responsive and engaging sonic experience.
+ This immersive audio interaction system that dynamically changes sound effects based on real-time weather data. Weather elements such as temperature, humidity, wind direction, wind speed, UV index, and precipitation influence musical parameters like filters, reverb, pitch, and volume, providing a responsive and engaging sonic experience.
 
 ---
 
@@ -22,10 +22,6 @@ An immersive audio interaction system that dynamically changes sound effects bas
 ### 🖼️ GUI & Event Handling
 - Built with `wxPython` for a native desktop UI
 - Includes sliders, buttons, and real-time parameter control
-
-### 🔁 Asynchronous Processing / Threading
-- Uses `threading.Thread` for background weather updates
-- Keeps UI and audio processing smooth and responsive
 
 ### 🎵 Real-Time Audio Engine (`pyo`)
 - Audio playback using `SfPlayer` and effects processing
@@ -69,6 +65,7 @@ python final_sonification.py
 ---
 ## 🎬 Demo
 final_with_effect_opt.py
+
 ![demo](./demo.gif)
 ---
 ## 🎯 Feature Summary
@@ -87,15 +84,7 @@ final_with_effect_opt.py
 
 ## 📌 Notes
 
-This project is an experimental audio system that turns real-time weather data into immersive musical experiences.
-
 You can connect it to a live weather API or use historical weather data for testing and demonstration.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
 
 ---
 
